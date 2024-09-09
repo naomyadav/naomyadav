@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @naomyadav
 - 👀 I’m interested in ...Math
 - 🌱 I’m currently learning ...math
-- 💞️ I’m looking to collaborate on ...codeing
+- 💞️ I’m looking to collaborate on ...coding
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 <!---
